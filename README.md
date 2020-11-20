@@ -11,7 +11,6 @@
 - [Is Quarkus the future of Java?](https://medium.com/swlh/is-quarkus-the-future-of-java-b664c5e79381?source=rss-e3eb238ffaf------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
-<br />
 
 ### Connect with me
 
@@ -19,7 +18,6 @@
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-<br />
 <br />
 
 ### Languages and Tools:
