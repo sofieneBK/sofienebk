@@ -5,6 +5,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker Step by Step](https://medium.com/swlh/docker-step-by-step-e0aacd3a352a?source=rss-e3eb238ffaf------2)
+- [Playing With Java Optional](https://medium.com/swlh/playing-with-java-optional-70ffecb9da33?source=rss-e3eb238ffaf------2)
+- [Is Deno the Node.JS killer?](https://medium.com/javascript-in-plain-english/is-deno-the-nodejs-killer-5fdf903191f7?source=rss-e3eb238ffaf------2)
+- [Is Quarkus the future of Java?](https://medium.com/swlh/is-quarkus-the-future-of-java-b664c5e79381?source=rss-e3eb238ffaf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
