@@ -10,7 +10,6 @@
 - [Is Deno the Node.JS killer?](https://medium.com/javascript-in-plain-english/is-deno-the-nodejs-killer-5fdf903191f7?source=rss-e3eb238ffaf------2)
 - [Is Quarkus the future of Java?](https://medium.com/swlh/is-quarkus-the-future-of-java-b664c5e79381?source=rss-e3eb238ffaf------2)
 <!-- BLOG-POST-LIST:END -->
-<br />
 
 ### Connect with me
 
