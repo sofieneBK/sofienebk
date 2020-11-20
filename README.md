@@ -3,7 +3,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@sofienebenkhemis](https://medium.com/@sofienebenkhemis)
 
-### Blogs posts
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Docker Step by Step](https://medium.com/swlh/docker-step-by-step-e0aacd3a352a?source=rss-e3eb238ffaf------2)
 - [Playing With Java Optional](https://medium.com/swlh/playing-with-java-optional-70ffecb9da33?source=rss-e3eb238ffaf------2)
