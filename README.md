@@ -6,7 +6,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Playing With Spring Boot Microservices](https://medium.com/swlh/playing-with-spring-boot-microservices-3790932d2263?source=rss-e3eb238ffaf------2)
+- [Playing With Spring Boot Microservices](https://medium.com/@sofienebk/playing-with-spring-boot-microservices-3790932d2263?source=rss-e3eb238ffaf------2)
 - [Docker Step by Step](https://medium.com/swlh/docker-step-by-step-e0aacd3a352a?source=rss-e3eb238ffaf------2)
 - [Playing With Java Optional](https://medium.com/swlh/playing-with-java-optional-70ffecb9da33?source=rss-e3eb238ffaf------2)
 - [Is Deno the Node.JS killer?](https://medium.com/javascript-in-plain-english/is-deno-the-nodejs-killer-5fdf903191f7?source=rss-e3eb238ffaf------2)
