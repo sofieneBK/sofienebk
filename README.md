@@ -26,7 +26,7 @@
 
 
 [blog]: https://medium.com/@sofienebk
-[linkedin]: https://www.linkedin.com/in/sofiene-ben-khemis-ab54b5136/
+[linkedin]: https://www.linkedin.com/in/sofienebk
 [twitter]: https://twitter.com/SofieneBKS
 [facebook]: https://www.facebook.com/people/Sofiane-Ben-Khemis/100001554511849
 
