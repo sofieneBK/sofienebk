@@ -9,7 +9,7 @@
 - [Building Microservices With Spring Boot](https://medium.com/@sofienebk/building-microservices-with-spring-boot-753be739ca7d?source=rss-e3eb238ffaf------2)
 - [Docker Step by Step](https://medium.com/swlh/docker-step-by-step-e0aacd3a352a?source=rss-e3eb238ffaf------2)
 - [Playing With Java Optional](https://medium.com/swlh/playing-with-java-optional-70ffecb9da33?source=rss-e3eb238ffaf------2)
-- [Is Deno the Node.JS killer?](https://js.plainenglish.io/is-deno-the-nodejs-killer-5fdf903191f7?source=rss-e3eb238ffaf------2)
+- [Is Deno the Node.JS killer?](https://javascript.plainenglish.io/is-deno-the-nodejs-killer-5fdf903191f7?source=rss-e3eb238ffaf------2)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://medium.com/@sofienebenkhemis)
 
