@@ -6,10 +6,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hands-on CI/CD for Spring Boot applications using GitHub Actions and AWS](https://medium.com/javarevisited/hands-on-ci-cd-for-spring-boot-applications-using-github-actions-and-aws-1cbc1e2c9d54?source=rss-e3eb238ffaf------2)
 - [Hands-on Hexagonal Architecture With Spring Boot](https://medium.com/javarevisited/hands-on-hexagonal-architecture-with-spring-boot-ca61f88bed8b?source=rss-e3eb238ffaf------2)
 - [Building Microservices With Spring Boot](https://sofienebk.medium.com/building-microservices-with-spring-boot-753be739ca7d?source=rss-e3eb238ffaf------2)
 - [Docker Step by Step](https://medium.com/swlh/docker-step-by-step-e0aacd3a352a?source=rss-e3eb238ffaf------2)
-- [Playing With Java Optional](https://medium.com/swlh/playing-with-java-optional-70ffecb9da33?source=rss-e3eb238ffaf------2)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://medium.com/@sofienebenkhemis)
 
