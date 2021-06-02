@@ -11,7 +11,7 @@
 - [Building Microservices With Spring Boot](https://sofienebk.medium.com/building-microservices-with-spring-boot-753be739ca7d?source=rss-e3eb238ffaf------2)
 - [Docker Step by Step](https://medium.com/swlh/docker-step-by-step-e0aacd3a352a?source=rss-e3eb238ffaf------2)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://medium.com/@sofienebenkhemis)
+➡️ [more blog posts...](https://sofienebk.medium.com)
 
 ### Connect with me
 
