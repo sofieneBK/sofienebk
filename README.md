@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sofiene BEN KHEMIS</h1>
 <h3 align="center">I'm a Software Engineer, Java & Cloud lover</h3>
 
-<h3 align="center"> 📝 I regulary write articles on <a href="https://medium.com/@sofienebenkhemis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sofienebenkhemis" height="30" width="40" /></a> </h3>
+<h3 align="center"> 📝 I regularly write articles on <a href="https://medium.com/@sofienebenkhemis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sofienebenkhemis" height="30" width="40" /></a> </h3>
 
 
 ### 📕 Latest Blog Posts
