@@ -6,10 +6,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Kubernetes step by step using LKE](https://sofienebk.medium.com/learn-kubernetes-step-by-step-using-lke-67ceb2f6aad2?source=rss-e3eb238ffaf------2)
 - [Hands-on CI/CD for Spring Boot applications using GitHub Actions and AWS](https://aws.plainenglish.io/hands-on-ci-cd-for-spring-boot-applications-using-github-actions-and-aws-1cbc1e2c9d54?source=rss-e3eb238ffaf------2)
 - [Hands-on Hexagonal Architecture With Spring Boot](https://medium.com/javarevisited/hands-on-hexagonal-architecture-with-spring-boot-ca61f88bed8b?source=rss-e3eb238ffaf------2)
 - [Building Microservices With Spring Boot](https://sofienebk.medium.com/building-microservices-with-spring-boot-753be739ca7d?source=rss-e3eb238ffaf------2)
-- [Docker Step by Step](https://medium.com/swlh/docker-step-by-step-e0aacd3a352a?source=rss-e3eb238ffaf------2)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://sofienebk.medium.com)
 
