@@ -7,7 +7,7 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Change Data Capture Made Easy: Debezium Integration with Spring Boot, MongoDB and Postgres](https://sofienebk.medium.com/change-data-capture-made-easy-debezium-integration-with-spring-boot-mongodb-and-postgres-96dc9772bb86?source=rss-e3eb238ffaf------2)
-- [Hands-on Consul With Spring boot](https://sofienebk.medium.com/hands-on-consul-with-spring-boot-1ebf2918165c?source=rss-e3eb238ffaf------2)
+- [Hands-on Consul With Spring boot](https://medium.com/javarevisited/hands-on-consul-with-spring-boot-1ebf2918165c?source=rss-e3eb238ffaf------2)
 - [Learn Kubernetes step by step using LKE](https://medium.com/nerd-for-tech/learn-kubernetes-step-by-step-using-lke-67ceb2f6aad2?source=rss-e3eb238ffaf------2)
 - [Hands-on CI/CD for Spring Boot applications using GitHub Actions and AWS](https://aws.plainenglish.io/hands-on-ci-cd-for-spring-boot-applications-using-github-actions-and-aws-1cbc1e2c9d54?source=rss-e3eb238ffaf------2)
 <!-- BLOG-POST-LIST:END -->
